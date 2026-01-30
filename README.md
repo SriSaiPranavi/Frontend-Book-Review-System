@@ -1,2 +1,2 @@
 # Frontend-Book-Review-System
-A simple frontend web application that allows users to submit and view book reviews with ratings using HTML, CSS, and JavaScript.
+This project is a frontend-only book review website built using HTML, CSS, and JavaScript. Users can submit book reviews by entering the book title, author name, review text, and rating. Submitted reviews are dynamically displayed on the page without using any backend or database.
